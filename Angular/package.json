@@ -1,0 +1,13 @@
+{
+  "version": "1.0.0",
+  "name": "asp.net",
+  "private": true,
+  "devDependencies": {},
+  "dependencies": {
+    "@angular/common": "^7.2.14",
+    "@angular/core": "^7.2.14",
+    "rxjs": "^6.0.0",
+    "typescript": "^3.4.5",
+    "zone.js": "~0.8.26"
+  }
+}
