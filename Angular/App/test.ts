@@ -1,5 +1,5 @@
 ﻿class test {
     getMessage(): string {
-        return "test";
+        return "firs test";
     }
 }

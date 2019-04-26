@@ -1,1 +1,1 @@
-{"version":3,"file":"test.js","sourceRoot":"","sources":["test.ts"],"names":[],"mappings":"AAAA;IAAA;IAIA,CAAC;IAHG,yBAAU,GAAV;QACI,OAAO,MAAM,CAAC;IAClB,CAAC;IACL,WAAC;AAAD,CAAC,AAJD,IAIC"}
+{"version":3,"sources":["test.ts"],"names":[],"mappings":"AAAA;IAAA;IAIA,CAAC;IAHG,yBAAU,GAAV;QACI,OAAO,WAAW,CAAC;IACvB,CAAC;IACL,WAAC;AAAD,CAJA,AAIC,IAAA","file":"test.js","sourcesContent":["class test {\r\n    getMessage(): string {\r\n        return \"firs test\";\r\n    }\r\n}"]}
